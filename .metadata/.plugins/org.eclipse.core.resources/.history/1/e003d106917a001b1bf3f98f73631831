@@ -1,0 +1,5 @@
+package com.spring.medical.project.entities;
+
+public class Appointment {
+
+}
